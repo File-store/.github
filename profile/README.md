@@ -1,5 +1,4 @@
-
-   <!DOCTYPE html>
+<!DOCTYPE html>
     <html lang="en-US">
       <head>
 	<hr />
@@ -177,7 +176,8 @@
 <li><a href="https://discord.gg/0cDvIgU2voWn4BaD" rel="nofollow">bots.discord.pw Discord Server</a></li>
 <li><a href="https://www.carbonitex.net/Discord/bots" rel="nofollow">Carbonitex Website</a></li>
 </ul>
-    </html>
+    
+</html>
 
 <!--
 
