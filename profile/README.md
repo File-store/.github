@@ -1,35 +1,35 @@
 <!DOCTYPE html>
-    <html lang="en-US">
-      <head>
-	<hr />
-		<h4 id="titel">Please find below a list of useful resources to help you along with bots on Discord, such as various bot libraries, support channels, etc.</h4>
-	<hr />
-	<hr />
-		<h1 id="wiki_official_resources">Official Resources</h1>
-		<ul>
-		<li><a href="https://discordapp.com/developers/docs/intro" rel="nofollow">Discord Developers Portal</a></li>
-		<li><a href="https://github.com/discordapp" rel="nofollow">Discord on Github</a></li>
-		<li><a href="https://discord.gg/discord-developers" rel="nofollow">Discord Developers Server</a></li>
-         </ul>
-	<hr />
-		<h1 id="wiki_unofficial_resources">Unofficial Resources</h1>
-		<h2 id="wiki_libaries">Libaries</h2>
-		<h3 id="wiki_clojure">Clojure</h3>
-		<h4 id="wiki_discljord">Discljord</h4>
-	<ul>
-		<li><a href="https://github.com/IGJoshua/discljord" rel="nofollow">Github</a></li>
-	</ul>
-	<hr />
-		<h3 id="wiki_crystal">Crystal</h3>
-		<h4 id="wiki_discordcr">DiscordCR</h4>
-	<ul>
-		<li><a href="https://github.com/meew0/discordcr" rel="nofollow">Github</a></li>
-		<li><a href="https://discord.gg/puaxPkK" rel="nofollow">Discord Server</a></li>
-	</ul>
-	<hr />
-		<h3 id="wiki_dart">Dart</h3>
-		<h4 id="wiki_nyxx">Nyxx</h4>
-	<ul>
+	<html lang="en-US">
+	<head>
+<hr />
+	<h4 id="titel">Please find below a list of useful resources to help you along with bots on Discord, such as various bot libraries, support channels, etc.</h4>
+<hr />
+<hr />
+	<h1 id="wiki_official_resources">Official Resources</h1>
+<ul>
+	<li><a href="https://discordapp.com/developers/docs/intro" rel="nofollow">Discord Developers Portal</a></li>
+	<li><a href="https://github.com/discordapp" rel="nofollow">Discord on Github</a></li>
+	<li><a href="https://discord.gg/discord-developers" rel="nofollow">Discord Developers Server</a></li>
+</ul>
+<hr />
+	<h1 id="wiki_unofficial_resources">Unofficial Resources</h1>
+	<h2 id="wiki_libaries">Libaries</h2>
+	<h3 id="wiki_clojure">Clojure</h3>
+	<h4 id="wiki_discljord">Discljord</h4>
+<ul>
+	<li><a href="https://github.com/IGJoshua/discljord" rel="nofollow">Github</a></li>
+</ul>
+<hr />
+	<h3 id="wiki_crystal">Crystal</h3>
+	<h4 id="wiki_discordcr">DiscordCR</h4>
+<ul>
+<li><a href="https://github.com/meew0/discordcr" rel="nofollow">Github</a></li>
+<li><a href="https://discord.gg/puaxPkK" rel="nofollow">Discord Server</a></li>
+</ul>
+<hr />
+<h3 id="wiki_dart">Dart</h3>
+<h4 id="wiki_nyxx">Nyxx</h4>
+<ul>
 <li><a href="https://github.com/l7ssha/nyxx" rel="nofollow">Github</a></li>
 </ul>
 <hr />
