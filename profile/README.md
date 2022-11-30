@@ -1,9 +1,8 @@
-<!DOCTYPE html>
-	<html lang="en-US">
-	<head>
+<head>
+<hr />
+	<h1 id="Coding_Resources">Coding_Resources</h1>
 <hr />
 	<h4 id="titel">Please find below a list of useful resources to help you along with bots on Discord, such as various bot libraries, support channels, etc.</h4>
-<hr />
 <hr />
 	<h1 id="wiki_official_resources">Official Resources</h1>
 <ul>
@@ -176,8 +175,7 @@
 <li><a href="https://discord.gg/0cDvIgU2voWn4BaD" rel="nofollow">bots.discord.pw Discord Server</a></li>
 <li><a href="https://www.carbonitex.net/Discord/bots" rel="nofollow">Carbonitex Website</a></li>
 </ul>
-    
-</html>
+
 
 <!--
 
