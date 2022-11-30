@@ -26,13 +26,10 @@
 ## Hakari Source
 
 - [Lucas YT](<https://www.youtube.com/watch?v=xc1VpbRd4is&t>)
-
 - [INSTALL PYTHON](<https://www.python.org/downloads/>)
 - [DISCORD DEVELOPER PORTAL](<https://discord.com/developers/>)
-
 - [HIKARI GITHUB](<https://github.com/hikari-py/hikari/>)
 - [HIKARI DOCUMENTATION](<https://www.hikari-py.dev/>)
-
 - [HIKARI HELP DISCORD](<https://discord.com/invite/Jx4cNGG>)
 - [JOIN MY HELP SERVER](<https://discord.gg/4Fy88WN>)
 
